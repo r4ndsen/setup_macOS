@@ -19,3 +19,4 @@ brew install composer
 brew install redis
 brew install htop
 brew install python
+brew install pigz
