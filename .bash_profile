@@ -1,4 +1,5 @@
 source ~/.git-prompt.sh
+#https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh
 
 MAGENTA="\[\033[0;35m\]"
 YELLOW="\[\033[0;33m\]"
