@@ -11,6 +11,7 @@ brew link curl --force
 brew install php71 --with-homebrew-curl
 brew install php71-redis
 brew install php71-pspell
+brew install php71-propro
 #brew install php71-imagick
 brew install php71-pcntl
 brew install php71-intl
