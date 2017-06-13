@@ -14,6 +14,7 @@ brew install php71-pspell
 brew install php71-propro
 brew install php71-raphf
 brew install php71-mongodb
+brew install php71-phalcon
 #brew install php71-imagick
 brew install php71-pcntl
 brew install php71-intl
