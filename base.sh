@@ -20,6 +20,8 @@ brew install php71-pcntl
 brew install php71-intl
 brew install php71-ssh2
 brew install php71-xdebug
+brew install php71-libsodium
+brew install php71-gmp
 
 brew install composer
 brew install redis
