@@ -15,7 +15,6 @@ brew install php72-mongodb
 #brew install php72-phalcon
 brew install php72-imagick
 brew install php72-pcntl
-brew install php72-intl
 brew install php72-ssh2
 brew install php72-xdebug
 brew install php72-libsodium
