@@ -8,20 +8,18 @@ brew install wget
 brew install curl --with-libssh2
 brew link curl --force
 
-brew install php71 --with-homebrew-curl
-brew install php71-redis
-brew install php71-pspell
-brew install php71-propro
-brew install php71-raphf
-brew install php71-mongodb
-#brew install php71-phalcon
-#brew install php71-imagick
-brew install php71-pcntl
-brew install php71-intl
-brew install php71-ssh2
-brew install php71-xdebug
-brew install php71-libsodium
-brew install php71-gmp
+brew install php72 --with-homebrew-curl
+brew install php72-redis
+brew install php72-http
+brew install php72-mongodb
+#brew install php72-phalcon
+brew install php72-imagick
+brew install php72-pcntl
+brew install php72-intl
+brew install php72-ssh2
+brew install php72-xdebug
+brew install php72-libsodium
+brew install php72-gmp
 
 brew install composer
 brew install redis
