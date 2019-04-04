@@ -20,6 +20,7 @@ brew install php72-xdebug
 brew install php72-libsodium
 brew install php72-gmp
 
+brew install pv
 brew install composer
 brew install redis
 brew install htop
