@@ -27,6 +27,7 @@ brew install htop
 brew install python
 brew install pigz
 brew install phpunit
+brew install moreutils
 
 # update all of brew
 brew upgrade `brew outdated`
